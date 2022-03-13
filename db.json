@@ -1,0 +1,40 @@
+{
+  "accounts": [
+    {
+      "id": 3644,
+      "username": "jbevangelista07@gmail.com",
+      "password": "Janbernard070197!",
+      "email": "jbevangelista07@gmail.com"
+    },
+    {
+      "id": 6085,
+      "username": "JC",
+      "password": "Janchristan!",
+      "email": "jcevangelista@gmail.com"
+    },
+    {
+      "id": 4068,
+      "username": "Janjan",
+      "password": "password123!",
+      "email": "janjanrob@gmail.com"
+    },
+    {
+      "id": 6791,
+      "username": "jayjay",
+      "password": "password123!",
+      "email": "jayjayrobles@gmail.com"
+    },
+    {
+      "id": 5813,
+      "username": "Dayle",
+      "password": "password123!",
+      "email": "daylepogi@gmail.com"
+    },
+    {
+      "id": 1987,
+      "username": "janette",
+      "password": "Password123!",
+      "email": "janettevangelista@gmail.com"
+    }
+  ]
+}
